@@ -9,6 +9,6 @@ print(len(input('Digite o seu nome: ')))
 
 
 valor = int(input("Digite o valor"))
-valor1 = int(input("Digite o valor"))
+valor1 = int(input("Digite o valor1"))
 
 print(valor + valor1)
